@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# virtual environment
+.venv/
+
+# store data files (skal IKKE pushes)
+data/*.csv
+data/*.zip
