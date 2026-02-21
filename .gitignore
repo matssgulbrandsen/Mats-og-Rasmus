@@ -5,5 +5,8 @@
 .venv/
 
 # store data files (skal IKKE pushes)
-data/*.csv
+
 data/*.zip
+
+__pycache__/
+*.pyc
